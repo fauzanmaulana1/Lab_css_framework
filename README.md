@@ -5,6 +5,7 @@
 ### Kelas      : TI.20.D.1
 ### Matkul     : Web Pemograman
 ### Praktikum 6: Web Framework
+<img src="fauzan - Copy.JPG" title="FAUZAN MAULANA" alt="FAUZAN MAULANA" class="120px" width="130px">
 
 1. Buatlah folder baru dengan nama lab6_css_framework, kemudian buat dokumen baru html.
 ![image](https://user-images.githubusercontent.com/101807419/164915618-e0a819c8-25bb-4103-ab29-9455953a9d63.png)
