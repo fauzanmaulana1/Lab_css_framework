@@ -30,10 +30,10 @@ Tampilan browser
 ![image](https://user-images.githubusercontent.com/101807419/164916219-3356213d-62b0-4fc2-886b-e16f664d624e.png)
 
 Penjelasan :
-col memberi style sebuah table berdasarkan kolom tertentu
-img-rounded-circle untuk membuat border pada gambar menjadi bulat
-pt-3 padding top = 3
-mt-3 margin top = 3
-saya menambah style untuk mengatur ukuran dan posisi pada gambar
+### col memberi style sebuah table berdasarkan kolom tertentu
+### img-rounded-circle untuk membuat border pada gambar menjadi bulat
+### pt-3 padding top = 3
+### mt-3 margin top = 3
+### saya menambah style untuk mengatur ukuran dan posisi pada gambar
 
 
