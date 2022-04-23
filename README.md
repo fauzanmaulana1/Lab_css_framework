@@ -26,5 +26,14 @@ Tampilan browser
 
 - Cards (1) Untuk membuat body konten, saya menggunakan cards. pertama saya akan membagi kolom menggunakan display flex agar dapat memuat 2 kolom yang nanti akan di isi oleh menu List Group.
 ![image](https://user-images.githubusercontent.com/101807419/164916082-30cb508e-a2b7-4205-97ab-71c898805b97.png)
+![image](https://user-images.githubusercontent.com/101807419/164916174-a80896ee-5b37-4f06-b9b0-ea3eb5ffe652.png)
+![image](https://user-images.githubusercontent.com/101807419/164916219-3356213d-62b0-4fc2-886b-e16f664d624e.png)
+
+Penjelasan :
+col memberi style sebuah table berdasarkan kolom tertentu
+img-rounded-circle untuk membuat border pada gambar menjadi bulat
+pt-3 padding top = 3
+mt-3 margin top = 3
+saya menambah style untuk mengatur ukuran dan posisi pada gambar
 
 
