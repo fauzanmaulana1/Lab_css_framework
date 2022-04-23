@@ -48,6 +48,9 @@ Tampilan Browser
 
 - Cards (2)
 ![image](https://user-images.githubusercontent.com/101807419/164916559-a7dd3d06-47a5-4c2f-8082-f12aa26e929a.png)
+![image](https://user-images.githubusercontent.com/101807419/164916641-d7c17046-33e1-480a-a889-08ed5abc46f4.png)
+![image](https://user-images.githubusercontent.com/101807419/164916682-2462d559-ca50-4344-9bd1-654c4a6f1d03.png)
+
 
 
 
