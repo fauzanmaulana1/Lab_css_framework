@@ -29,11 +29,25 @@ Tampilan browser
 ![image](https://user-images.githubusercontent.com/101807419/164916174-a80896ee-5b37-4f06-b9b0-ea3eb5ffe652.png)
 ![image](https://user-images.githubusercontent.com/101807419/164916219-3356213d-62b0-4fc2-886b-e16f664d624e.png)
 
-Penjelasan :
+### Penjelasan :
 ### col memberi style sebuah table berdasarkan kolom tertentu
 ### img-rounded-circle untuk membuat border pada gambar menjadi bulat
 ### pt-3 padding top = 3
 ### mt-3 margin top = 3
 ### saya menambah style untuk mengatur ukuran dan posisi pada gambar
+
+![image](https://user-images.githubusercontent.com/101807419/164916304-6787e91a-b030-444d-b8c9-743d36b94d97.png)
+Tampilan Browser
+![image](https://user-images.githubusercontent.com/101807419/164916358-b7dbd9f3-0871-46f7-a7a4-44ddc5a9790d.png)
+
+- List Group menambahkan widget disamping kanan cards 1
+![image](https://user-images.githubusercontent.com/101807419/164916411-be2b2400-21a5-497b-85ba-658845f6519a.png)
+
+Tampilan Browser
+![image](https://user-images.githubusercontent.com/101807419/164916471-66f8a251-0ddd-4ea6-bcfd-bf083de3ec5c.png)
+
+- Cards (2)
+![image](https://user-images.githubusercontent.com/101807419/164916559-a7dd3d06-47a5-4c2f-8082-f12aa26e929a.png)
+
 
 
