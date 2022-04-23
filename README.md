@@ -1,4 +1,4 @@
-# Lab_css_framework
+# Lab6_css_framework
 
 ### Nama       : Fauzan Maulana
 ### NIM        : 312010115
