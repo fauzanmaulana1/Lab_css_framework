@@ -3,7 +3,7 @@
 ### Nama       : Fauzan Maulana
 ### NIM        : 312010115
 ### Kelas      : TI.20.D.1
-### Matkul     : Web Pemograman
+### Matkul     : Pemograman Web
 ### Praktikum 6: Web Framework
 <img src="fauzan - Copy.JPG" title="FAUZAN MAULANA" alt="FAUZAN MAULANA" class="120px" width="130px">
 
